@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-minikube/minikube-ingress-dns:0.0.1@sha256:69dc3c878c2e49ad85b70fdf9e8e6e87a1f961f42c8029e0912bebfa828ade46
